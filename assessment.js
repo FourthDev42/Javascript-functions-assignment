@@ -4,9 +4,9 @@ let subString = str.substring(4,10);
 console.log(subString);
 
 // Converting Cases
-let string2 = "hello WORLD";
-let convertedString2 = string2.slice (0,5). toUpperCase() + " " + String2.slice(6).toLowerCase();
-console.log(convertedString2);
+let text = "hello WORLD";
+let result = text.slice (0, 5).toUpperCase() + " " + text.slice(6).toLowerCase();
+console.log(result);
 
 // Finding Characters
 let string3 = "Programming";
